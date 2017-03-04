@@ -15,6 +15,7 @@
         android:text="@string/Red"
         android:background="@color/Red"
         android:textAllCaps="false" />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
